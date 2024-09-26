@@ -33,8 +33,8 @@ const props = defineProps({
     flex: 1;
     height: auto;
     min-height: 70vh;
-    max-height: 800px; /* Ограничьте высоту контейнера */
-    overflow-y: auto; /* Включите прокрутку по вертикали */
+    max-height: 800px; /* ограничивает высоту контейнера */
+    overflow-y: auto; /* включает прокрутку по вертикали */
     margin: 0 2rem 0 2em; /* Отступы */
     border: 1px solid #ddd;
     border-radius: 4px;
